@@ -1,0 +1,5 @@
+pydantic
+langchain 
+langraph
+langchain-core
+langchain-community
