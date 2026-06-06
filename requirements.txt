@@ -4,3 +4,7 @@ langgraph
 langchain-core
 langchain-community
 ipykernel
+python-dotenv
+langchain-groq
+arxiv
+wikipedia
